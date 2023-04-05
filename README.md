@@ -1,2 +1,0 @@
-# hash-inspector
-hash-inspector
